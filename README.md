@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Markup-YAML-1572B6?style=for-the-badge&logo=yaml&logoColor=white"/>
 </p>
 
+![ansible](https://github.com/user-attachments/assets/068a57e7-bd03-4630-8224-930d35b01d34)
+
 ---
 
 ## 🧭 **Workshop Topics Overview**
