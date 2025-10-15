@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3500&pause=800&color=1E90FF&center=true&vCenter=true&width=850&lines=Trainer+Guide+|+Binnbash+Academy;Complete+Workshop+Topics+and+Flow;YAML+→+Ansible+→+Roles+→+Vault+→+GitHub+Actions+Integration"/>
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3500&pause=800&color=1E90FF&center=true&vCenter=true&width=850&lines=Trainer+Guide+|+Vishwa Learnings;Complete+Workshop+Topics+and+Flow;YAML+→+Ansible+→+Roles+→+Vault+→+GitHub+Actions+Integration"/>
 </p>
 
 <p align="center">
