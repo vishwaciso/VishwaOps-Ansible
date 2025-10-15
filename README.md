@@ -184,3 +184,7 @@ env:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0A192F&height=140&section=footer"/>
 </p>
+
+
+![WhatsApp Image 2025-10-15 at 16 57 38 (1)](https://github.com/user-attachments/assets/70d4f903-295c-47e5-a479-e7ae169716e8)
+
