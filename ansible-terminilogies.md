@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=850&color=EE3124&center=true&vCenter=true&width=850&lines=Automation+%7C+Configuration+Management+%7C+Orchestration;By+Binnbash+Academy;Learn+Playbooks%2C+Roles%2C+Vault%2C+Inventory%2C+and+More!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=850&color=EE3124&center=true&vCenter=true&width=850&lines=Automation+%7C+Configuration+Management+%7C+Orchestration;By+Vishwa+Academy;Learn+Playbooks%2C+Roles%2C+Vault%2C+Inventory%2C+and+More!"/>
 </p>
 
 <p align="center">
@@ -92,4 +92,4 @@
 </p>
 
 ## 📎 Credits
-Made with ❤️ by **Binnbash Academy** — Empowering learners in DevOps, Cloud, and Automation.
+Made with ❤️ by **Vishwa Academy** — Empowering learners in DevOps, Cloud, and Automation.
