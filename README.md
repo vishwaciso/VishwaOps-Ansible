@@ -169,7 +169,7 @@ env:
 
 ---
 
-## 🎁 **Optional Add-ons (If Time Allows)**
+## 🎁 **Optional Add-ons 
 - Slack notification integration in GitHub Actions  
 - Dynamic AWS inventory configuration  
 - Ansible Tower (AWX) introduction  
@@ -177,11 +177,7 @@ env:
 
 ---
 
-## ✅ **Trainer Tips**
-⚡ Keep demos short and focused (use local or simple IPs)  
-🧾 Prepare `inventory.ini` and playbooks in advance  
-💡 Show both Linux + Windows setups for impact  
-🎬 End with live GitHub Actions demo to impress managers  
+
 
 ---
 
