@@ -30,7 +30,7 @@
 | Map (object) | `person: {name: Esha, role: DevOps}` | Inline or multi‑line |
 | Nesting | 2 spaces | ❌ No tabs |
 | Comment | `# this is a comment` | Ignored by parser |
-| Strings | `'text'` / `"text"` / `text` | Quotes optional |
+| Strings | `'text'` / `'text with : or #'` / `text` | Quote strings with special chars |
 | Boolean | `true` / `false` | Lowercase |
 | Null | `null` or `~` | Empty value |
 | Multi‑line | `|` (literal) / `>` (folded) | Keep vs. fold newlines |
@@ -38,10 +38,62 @@
 
 ---
 
-## 🧾 Full YAML Example — **Person Profile** (Complete Syntax Demo)
+## 🔎 Quick Examples (as requested)
+Below are the exact examples you asked to include, presented as valid YAML.
 
-> This example includes: **name**, **phone numbers**, **age**, **address**, **job**, **location**, **designation**, and more (lists, maps, anchors, multi‑line strings, booleans, nulls).  
-> Copy‑paste into a YAML linter to explore.
+### 🔢 Numbers
+```yaml
+age: 25
+marks: 89.5
+```
+
+### 🔹 Boolean
+```yaml
+active: true
+enrolled: false
+```
+
+### 🧰 Lists
+```yaml
+tools:
+  - Ansible
+  - Docker
+  - Kubernetes
+```
+
+### 🗂️ Dictionary (Map)
+```yaml
+student:
+  name: Esha
+  course: DevOps
+  country: India
+```
+
+### 🧱 Nested Structures
+```yaml
+infrastructure:
+  servers:
+    - name: web01
+      ip: 192.168.1.10
+    - name: db01
+      ip: 192.168.1.20
+```
+
+---
+
+## ⚙️ YAML Rules (Very Important)
+| Rule | Description |
+|------|-------------|
+| ✅ **Use spaces, not tabs** | Indentation must be consistent |
+| ✅ **Colon (:) for key:value** | Key followed by colon and space |
+| ✅ **Case sensitive** | Keys like `Name` ≠ `name` |
+| ✅ **Dash (-)** | Used for lists |
+| ✅ **# Comment** | To add notes or disable a line |
+
+---
+
+## 🧾 Full YAML Example — **Person Profile** (Complete Syntax Demo)
+This example includes: **name**, **phone numbers**, **age**, **address**, **job**, **location**, **designation**, and more (lists, maps, anchors, multi‑line strings, booleans, nulls).
 
 ```yaml
 # person.yaml
